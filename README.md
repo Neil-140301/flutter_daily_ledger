@@ -1,16 +1,11 @@
-# flutter_crud_app
+# Daily Ledger
 
-A new Flutter project.
+A simple application for you note down a your tasks for the day made with Flutter and Hive.
 
-## Getting Started
+## App Features
 
-This project is a starting point for a Flutter application.
+- Create a new task for the day
+- Update an existing task
+- Delete an existing task
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Download APK: [apk](personal_ledger.apk)

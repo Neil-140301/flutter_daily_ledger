@@ -1,6 +1,6 @@
 # Daily Ledger
 
-A simple application for you note down a your tasks for the day made with Flutter and Hive.
+A simple application for you note down your tasks for the day made with Flutter and Hive.
 
 ## App Features
 
